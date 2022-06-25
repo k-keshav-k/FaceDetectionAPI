@@ -1,9 +1,5 @@
 README
 
-Submitter name:  KESHAV KRISHNA
-
-Roll No.:  2019CSB1224
-
 Course:  CS305
 
 =================================
